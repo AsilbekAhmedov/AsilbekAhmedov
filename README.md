@@ -7,6 +7,8 @@
 - 📫 Menga qanday bog'lanishiz mumkin: [asilbekahmedov1246@gmail.com]
 - 🌐 Telegram kanalimiz: [https://t.me/asilbekahmedov1]
 
+
+
 <div id='header' align='center'>
   <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFtOXR1dGNvaXU3OGtoM3VobHJ6NGhsOTZyaTAwdjd3ZzRsdDc0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GiXbMe92rt9NS/giphy.gif'width="200"/>
 </div>
@@ -35,21 +37,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB0c3UzaWFxdHd3OXkybmI4YnU4bHdkY29yazR5MHB4cjN6dGdtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" />
 </div>
 
----
 
-
-### 🖥 About me:
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/shohabbosdev)
-
-  
   </div>
 ---
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/samandareo/samandareo/blob/main/snake.svg"><img src="https://github.com/samandareo/samandareo/raw/main/snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
