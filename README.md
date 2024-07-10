@@ -1,6 +1,6 @@
 # Salom, men [Ahmedov Asilbek]!
 <div id='header' align='center'>
-  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2drbDVkbXk5OHMyaHkzODF5dWs3NnllOWU2MzlvZG1icG1xZmRtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif'width="200"/>
+  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJrN2theGJpcGw3bXp1dDVmZjRnZ3diNDVyZjdvZnZ3Znh0NnlmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif'width="400"/>
 </div>
 
 ## Haqimda
