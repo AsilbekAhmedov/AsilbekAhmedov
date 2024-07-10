@@ -34,7 +34,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a14b397d213bc52578b9089d1ec02e3dbd77783a82966d0f96c78ba3d489875/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/7a14b397d213bc52578b9089d1ec02e3dbd77783a82966d0f96c78ba3d489875/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></a></p>
 
 
-## 😎 Shiyor 
+## 😎 Shior 
  @AsilbekAhmedov : Katta orzu Qattiq mehnat. Kamtar bo'ling...! 🤫:
 
 ## 📫 Contact Me
