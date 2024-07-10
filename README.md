@@ -2,10 +2,9 @@
 
 ## Haqimda
 - 👨‍💻 Men  dasturchiman
-- 🔭 Hozirda [loyiha/kompaniya] ustida ishlayapman
-- 🌱 Hozirda [o'rganayotgan texnologiya/mavzu] o'rganayapman
+- 🌱 Hozirda [o'rganayotgan texnologiya/C#] o'rganayapman
 - 💬 Mendan [suhbat mavzusi] haqida so'rashingiz mumkin
-- 📫 Menga qanday bog'lamishiz mumkin: [asilbekahmedov1246@gmail.com]
+- 📫 Menga qanday bog'lanishiz mumkin: [asilbekahmedov1246@gmail.com]
 - 🌐 Telegram kanalimiz: [https://t.me/asilbekahmedov1]
 
 <div id='header' align='center'>
