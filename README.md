@@ -22,7 +22,7 @@
 
 
   </div>
-## :snake: Game
+:snake: Game
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/samandareo/samandareo/blob/main/snake.svg"><img src="https://github.com/samandareo/samandareo/raw/main/snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
 🛠️ Skills
