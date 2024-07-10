@@ -3,7 +3,7 @@
   <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJrN2theGJpcGw3bXp1dDVmZjRnZ3diNDVyZjdvZnZ3Znh0NnlmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif'width="400"/>
 </div>
 
-## Haqimda
+## O'zim haqimda
 - 👨‍💻 Men  dasturchiman
 - 🌱 Hozirda [o'rganayotgan texnologiya/C#] o'rganayapman
 - 💬 Mendan [suhbat mavzusi] haqida so'rashingiz mumkin
