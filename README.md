@@ -5,8 +5,8 @@
 - 🔭 Hozirda [loyiha/kompaniya] ustida ishlayapman
 - 🌱 Hozirda [o'rganayotgan texnologiya/mavzu] o'rganayapman
 - 💬 Mendan [suhbat mavzusi] haqida so'rashingiz mumkin
--📫 Menga qanday bog'lamishiz mumkin: [asilbekahmedov1246@gmail.com]
--🌐 Telegram kanalimiz: [https://t.me/asilbekahmedov1]
+- 📫 Menga qanday bog'lamishiz mumkin: [asilbekahmedov1246@gmail.com]
+- 🌐 Telegram kanalimiz: [https://t.me/asilbekahmedov1]
 
 <div id='header' align='center'>
   <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFtOXR1dGNvaXU3OGtoM3VobHJ6NGhsOTZyaTAwdjd3ZzRsdDc0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GiXbMe92rt9NS/giphy.gif'width="200"/>
