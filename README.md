@@ -10,27 +10,7 @@
 - 📫 Menga qanday bog'lanishiz mumkin: [asilbekahmedov1246@gmail.com]
 - 🌐 Telegram kanalimiz: [https://t.me/asilbekahmedov1]
 
-
-
-<div id='header' align='center'>
-  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFtOXR1dGNvaXU3OGtoM3VobHJ6NGhsOTZyaTAwdjd3ZzRsdDc0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GiXbMe92rt9NS/giphy.gif'width="200"/>
-</div>
-<div id="badges">
-  <a href="https://t.me/haverts004">
-      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/asilbekahmedov707?igsh=MTJ0em9ja2Yzd25vdA">
-    <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100080811552936&mibextid=ZbWKwL">
-      <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue">
-  </a>
-  <a href="https://www.youtube.com/@SporSaga_TV">
-    <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red">
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/
-  
+ 
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -55,9 +35,28 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## 😎 Shiyor 
  @AsilbekAhmedov : Katta orzu Qattiq mehnat. Kamtar bo'ling...! 🤫:
 
+## 📫 Contact Me
+<div id="badges">
+  <a href="https://t.me/haverts004">
+      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/asilbekahmedov707?igsh=MTJ0em9ja2Yzd25vdA">
+    <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100080811552936&mibextid=ZbWKwL">
+      <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue">
+  </a>
+  <a href="https://www.youtube.com/@SporSaga_TV">
+    <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red">
+  </a>
+ <br>
+  <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/
+</br>
+
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -76,3 +75,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
